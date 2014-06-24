@@ -19,7 +19,8 @@ The basic idea is to redesign Kepler. It's up to you do add new colors, fonts, f
 Think about the project from strach, using all your knowledgment of mockups, inspiration process and your desginer skills.
 
 ## Notes
-Be creative
+- Send the source files (PSD, mocukp files, etc)
+- Be creative
 
 ## Evaluation
 We will evaluate you on the following criteria:
