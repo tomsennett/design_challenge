@@ -12,7 +12,7 @@ This is a design challenge for a designer position with Woboinc.
 1. As an alternative to creating a fork on GitHub, you can simply email a zip file of your designs to [culley@woboinc.com](culley@woboinc.com) and [djalmaaraujo@woboinc.com](djalmaaraujo@woboinc.com)
 
 ## Challenge description (Kepler)
-Kepler is our demo website. We use this website when exploring new opportunities with potential clients.  Right now, the site is limited to basic search.  Complete a search, see results, and filter your search using facets.
+Kepler ([http://demo.woboinc.com/](http://demo.woboinc.com/)) is our demo website. We use this website when exploring new opportunities with potential clients.  Right now, the site is limited to basic search.  Complete a search, see results, and filter your search using facets.
 
 The idea of this challenge is to redesign Kepler. It's up to you do add new colors, fonts, features, whatever you want. When making design choices, be sure to note your process and decisions. When the challenge is complete, we will ask you questions about the choices and decisions you made.
 
