@@ -4,7 +4,7 @@ Design Challenge
 This is a challenge for a designer position with Woboinc.
 
 ## Challenge description (Kepler)
-Kepler ([http://demo.woboinc.com/](http://demo.woboinc.com/)) is our demo website. [Woboinc](http://www.woboinc.com) uses this site to reassure clients that we are experts in Product Discovery. When we show potential clients Kepler, we want them to come away confident that Woboinc the company who will help them create a sophisticated Product Discovery experience for their brand.
+Kepler ([http://demo.woboinc.com/](http://demo.woboinc.com/)) is our demo website. [Woboinc](http://www.woboinc.com) uses this site to reassure clients that we are experts in Product Discovery. When we show potential clients Kepler, we want them to come away confident that Woboinc is the company who will help them create a sophisticated Product Discovery experience for their brand.
 
 Ultimately, this site will be a complete e-commerce experience, but for now we are focusing on discoverability. More importantly, our primary objective is to introduce clients to a familiar line of products that feels new and exicting.
 
