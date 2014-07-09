@@ -1,0 +1,47 @@
+$primary: #134783;
+$highlight: #fe7a00;
+$bgMain: #FFFFFF;
+$bgLight: #f7f7f7;
+
+$bodyMain: #595858;
+$bodyLight: #7b7b7b;
+
+$rowHeight:40px;
+$rowMargin:20px;
+
+$buttonHeight:50px;
+$buttonColor:#FFFFFF;
+$buttonBack:#9a9a9a;
+$buttonFontSize:30px; 
+
+
+body *
+{
+    display:block;
+    width:100%;
+    vertical-align:middle;
+}
+
+a
+{
+    text-decoration:none;
+}
+
+a.button
+{
+    height:$buttonHeight;
+    background-color:$buttonBack;
+    color:$buttonColor;
+    font-size:$buttonFontSize;
+}
+
+a.search
+{
+    margin-top:10px;
+}
+
+input
+{
+    height:$buttonHeight;
+}
+
