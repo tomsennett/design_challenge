@@ -1,7 +1,60 @@
+html.landing {
+  background-color: #fe7a00;
+  min-height: 100%;
+}
+
 body * {
   display: block;
   width: 100%;
   vertical-align: middle;
+  box-sizing: border-box;
+}
+
+footer {
+  padding: 30px;
+  background-color: #fe7a00;
+  color: #FFFFFF;
+}
+
+.header {
+  background-color: #FFFFFF;
+}
+
+.home {
+  overflow: hidden;
+  height: 320px;
+  width: 100%;
+  white-space: nowrap;
+  background-color: #FFFFFF;
+}
+
+.home.right, .home.right * {
+  direction: rtl;
+}
+
+.home img {
+  display: inline-block;
+  width: auto;
+  height: 100%;
+}
+
+.home a {
+  display: inline;
+  height: 100%;
+}
+
+@media screen and (max-width: 1300px) {
+  .home {
+    height: 240px;
+  }
+}
+@media screen and (max-width: 568px) {
+  .home {
+    height: 140px;
+  }
+}
+.logo {
+  width: auto;
 }
 
 a {
@@ -21,4 +74,11 @@ a.search {
 
 input {
   height: 50px;
+}
+
+.grid .unit.middlebar {
+  background-color: #fe7a00;
+  padding: 20px;
+  font-size: 36px;
+  color: #FFFFFF;
 }

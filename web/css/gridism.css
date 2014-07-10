@@ -109,6 +109,7 @@
 .filtertoggle
     {
         display:block;
+        margin-top:10px;
     }
 
   /* Sometimes, you just want to be different on small screens */
