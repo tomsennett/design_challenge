@@ -122,9 +122,8 @@
 }
 
 /* Expand the wrap a bit further on larger screens */
-@media screen and (min-width: 1180px) {
-  .wider .grid {
-    max-width: 1180px;
+
+  .grid.wider {
+    max-width: 1280px;
     margin: 0 auto;
-  }
 }

@@ -35,6 +35,11 @@ footer
     color:#FFFFFF;
 }
 
+.detail footer
+{   
+    margin-top:60px;
+}
+
 .header
 {
     background-color:#FFFFFF;
@@ -119,4 +124,25 @@ input
     padding:20px;
     font-size:36px;
     color:#FFFFFF;
+}
+
+.detail h1
+{
+    font-size:36px;
+}
+
+.detail h2
+{
+    font-size:30px;
+}
+
+.detail
+{
+    font-size:18px;
+}
+
+.button.buy
+{
+    height:80px;
+    max-width:320px;
 }
