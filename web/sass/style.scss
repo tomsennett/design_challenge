@@ -1,5 +1,9 @@
 $primary: #134783;
 $highlight: #fe7a00;
+
+$primary: #676767;
+$highlight: #828282;
+
 $bgMain: #FFFFFF;
 $bgLight: #f7f7f7;
 
@@ -16,7 +20,7 @@ $buttonFontSize:30px;
 
 html.landing
 {
-    background-color:$highlight;
+    background-color:$primary;
     min-height:100%;
 }
 
@@ -48,10 +52,10 @@ footer
 .home
 {
    overflow:hidden;
-    height:320px;
+    height:160px;
     width:100%;
     white-space:nowrap;
-    background-color:#FFFFFF;
+    background-color:#000000;
 }
 
 .home.right, .home.right *
@@ -70,13 +74,14 @@ footer
 {
     display:inline;
     height:100%;
+    letter-spacing: -5px;
 }
 
-@media screen and (max-width: 1300px)
+@media screen and (max-width: 1400px)
 {
     .home
     {
-        height:240px;
+        height:130px;
     }
     
 }
@@ -85,7 +90,7 @@ footer
 {
     .home
     {
-        height:140px;
+        height:70px;
     }
     
 }
@@ -103,14 +108,24 @@ a
 a.button
 {
     height:$buttonHeight;
-    background-color:$buttonBack;
+    background-color:$highlight;
     color:$buttonColor;
     font-size:$buttonFontSize;
 }
 
-a.search
+.filter a.button
 {
-    margin-top:10px;
+    background-color:#FFFFFF;
+    color:$bodyMain;
+    border:1px solid $bodyMain;
+}
+
+.search
+{
+    padding:10px;
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color:$primary;
 }
 
 input
@@ -120,7 +135,7 @@ input
 
 .grid .unit.middlebar
 {
-    background-color:$highlight;
+    background-color:$primary;
     padding:20px;
     font-size:36px;
     color:#FFFFFF;
