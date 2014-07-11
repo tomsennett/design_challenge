@@ -1,6 +1,0 @@
-7/3/2014
-
-First off I wanted to focus on redesigning the search results screen, since it's currently pretty busy and could probably benefit from being broken down. I sketched out some basic ideas but quickly jumped into Photoshop when I realized I wanted to make the product images a huge part of the design. These images are of varying sizes and aspect ratios, so I wanted to deal with some "real" data in my design to understand if my ideas would be feasible given those constraints.
-
-I wanted to try stripping results down to the most basic information, which I saw as image, title, and price. I initially threw something together with a "buy" button and "more info" button for each product. But I looked at Amazon and realized they don't have "buy" buttons in their list results - which seems counterintuitive but I also have to imagine Amazon has tested this sort of thing. So I reconfigured my design with no buttons at all - the entire cell including the image will function as a button to get to the details page.
-
